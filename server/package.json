@@ -1,0 +1,15 @@
+{
+  "name": "rtcapp-server",
+  "version": "1.0.0",
+  "description": "Super simple server for WebRTC demo",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Guirao (Nitrillo)",
+  "license": "ISC"
+}
